@@ -1,0 +1,166 @@
+UPDATE tb_report SET first_name ='นริศรา',last_name = 'ร่วมเงิน' WHERE tb_report.report_id = 2404;
+# 1 Report ID : 2404 | Score:87  ผิด --> นริศรา ชุ่มเงิน|  ถูก --> นริศรา ร่วมเงิน 
+
+UPDATE tb_report SET first_name ='ธิดารัตน์',last_name = 'จันทโสด' WHERE tb_report.report_id = 3978;
+# 2 Report ID : 3978 | Score:85  ผิด --> ธิดารัตน์ จันทร์|  ถูก --> ธิดารัตน์ จันทโสด 
+
+UPDATE tb_report SET first_name ='ธิดารัตน์',last_name = 'จันทโสด' WHERE tb_report.report_id = 3979;
+# 3 Report ID : 3979 | Score:85  ผิด --> ธิดารัตน์ จันทร์|  ถูก --> ธิดารัตน์ จันทโสด 
+
+UPDATE tb_report SET first_name ='สุธิชัย',last_name = 'ทวีสุข' WHERE tb_report.report_id = 9645;
+# 4 Report ID : 9645 | Score:97  ผิด --> สุทธิชัย ทวีสุข|  ถูก --> สุธิชัย ทวีสุข 
+
+UPDATE tb_report SET first_name ='วิชญ์วริน',last_name = 'คงกะเรียน' WHERE tb_report.report_id = 9753;
+# 5 Report ID : 9753 | Score:97  ผิด --> วิชญ์วริน คงกระเรียน|  ถูก --> วิชญ์วริน คงกะเรียน 
+
+UPDATE tb_report SET first_name ='ชลธิชา',last_name = 'คำสนอง' WHERE tb_report.report_id = 11749;
+# 6 Report ID : 11749 | Score:88  ผิด --> ชลธิชา คะนอง|  ถูก --> ชลธิชา คำสนอง 
+
+UPDATE tb_report SET first_name ='ชลธิชา',last_name = 'คำสนอง' WHERE tb_report.report_id = 11773;
+# 7 Report ID : 11773 | Score:88  ผิด --> ชลธิชา คะนอง|  ถูก --> ชลธิชา คำสนอง 
+
+UPDATE tb_report SET first_name ='ณัฐวุฒิ',last_name = 'ศิริพรม' WHERE tb_report.report_id = 15724;
+# 8 Report ID : 15724 | Score:93  ผิด --> ณัฐวุฒ ศิริพรหม|  ถูก --> ณัฐวุฒิ ศิริพรม 
+
+UPDATE tb_report SET first_name ='จุฑามาศ',last_name = 'ช่วยเอียด' WHERE tb_report.report_id = 17325;
+# 9 Report ID : 17325 | Score:97  ผิด --> จุฑามาศ ช่วยอียด|  ถูก --> จุฑามาศ ช่วยเอียด 
+
+UPDATE tb_report SET first_name ='เกศสุวรรณ',last_name = 'ชลกิจ' WHERE tb_report.report_id = 20317;
+# 10 Report ID : 20317 | Score:97  ผิด --> กศสุวรรณ ชลกิจ|  ถูก --> เกศสุวรรณ ชลกิจ 
+
+UPDATE tb_report SET first_name ='รัชนีภรณ์',last_name = 'ดูดวง' WHERE tb_report.report_id = 20633;
+# 11 Report ID : 20633 | Score:93  ผิด --> รัชณีภรณ์ ดูดวง|  ถูก --> รัชนีภรณ์ ดูดวง 
+
+UPDATE tb_report SET first_name ='ชลิต',last_name = 'กองแก้ว' WHERE tb_report.report_id = 20738;
+# 12 Report ID : 20738 | Score:88  ผิด --> ลลิตา กองแก้ว|  ถูก --> ชลิต กองแก้ว 
+
+UPDATE tb_report SET first_name ='มูหัมมัดตอยีดิน',last_name = 'อาแย' WHERE tb_report.report_id = 23461;
+# 13 Report ID : 23461 | Score:95  ผิด --> มูฮัมมัดตอยีดิน อาแย|  ถูก --> มูหัมมัดตอยีดิน อาแย 
+
+UPDATE tb_report SET first_name ='สันติ',last_name = 'ด้วงทอง' WHERE tb_report.report_id = 24593;
+# 14 Report ID : 24593 | Score:96  ผิด --> สันติ ดวงทอง|  ถูก --> สันติ ด้วงทอง 
+
+UPDATE tb_report SET first_name ='ดารารัตน์',last_name = 'นามหาญ' WHERE tb_report.report_id = 27007;
+# 15 Report ID : 27007 | Score:85  ผิด --> ดารารัตน์ กล้าหาญ|  ถูก --> ดารารัตน์ นามหาญ 
+
+UPDATE tb_report SET first_name ='สุมาสินี',last_name = 'สาคร' WHERE tb_report.report_id = 27029;
+# 16 Report ID : 27029 | Score:92  ผิด --> สุมาลินี สาคร|  ถูก --> สุมาสินี สาคร 
+
+UPDATE tb_report SET first_name ='ไพศาล',last_name = 'คีรีเดช' WHERE tb_report.report_id = 27056;
+# 17 Report ID : 27056 | Score:92  ผิด --> ไพศาล ศีรีเดช|  ถูก --> ไพศาล คีรีเดช 
+
+UPDATE tb_report SET first_name ='เสาวรส',last_name = 'คำอาบ' WHERE tb_report.report_id = 27067;
+# 18 Report ID : 27067 | Score:96  ผิด --> เสาวรส คำอบ|  ถูก --> เสาวรส คำอาบ 
+
+UPDATE tb_report SET first_name ='ชลิต',last_name = 'กองแก้ว' WHERE tb_report.report_id = 27098;
+# 19 Report ID : 27098 | Score:92  ผิด --> ลลิต กองแก้ว|  ถูก --> ชลิต กองแก้ว 
+
+UPDATE tb_report SET first_name ='อชิรญา',last_name = 'มูลอัต' WHERE tb_report.report_id = 27146;
+# 20 Report ID : 27146 | Score:85  ผิด --> อริชญา มูลอัต|  ถูก --> อชิรญา มูลอัต 
+
+UPDATE tb_report SET first_name ='จิตรา',last_name = 'นันกระโทก' WHERE tb_report.report_id = 27154;
+# 21 Report ID : 27154 | Score:87  ผิด --> จิตรา นันกระดาก|  ถูก --> จิตรา นันกระโทก 
+
+UPDATE tb_report SET first_name ='เสาวรส',last_name = 'คำอาบ' WHERE tb_report.report_id = 27329;
+# 22 Report ID : 27329 | Score:96  ผิด --> เสารส คำอาบ|  ถูก --> เสาวรส คำอาบ 
+
+UPDATE tb_report SET first_name ='พิรุณ',last_name = 'วีระวงค์' WHERE tb_report.report_id = 27354;
+# 23 Report ID : 27354 | Score:93  ผิด --> พิรุณ วีระวงศ์|  ถูก --> พิรุณ วีระวงค์ 
+
+UPDATE tb_report SET first_name ='ประจญ',last_name = 'ศรีสะอาด' WHERE tb_report.report_id = 27374;
+# 24 Report ID : 27374 | Score:93  ผิด --> ประจบ ศรีสะอาด|  ถูก --> ประจญ ศรีสะอาด 
+
+UPDATE tb_report SET first_name ='ธีระยุทธ',last_name = 'จีนโทร' WHERE tb_report.report_id = 27394;
+# 25 Report ID : 27394 | Score:87  ผิด --> ธีระยุทธ์ จันโท|  ถูก --> ธีระยุทธ จีนโทร 
+
+UPDATE tb_report SET first_name ='กุลฑีรา',last_name = 'จันทร์เกษม' WHERE tb_report.report_id = 27470;
+# 26 Report ID : 27470 | Score:92  ผิด --> นส.กุลฑีรา จันทร์เกษม|  ถูก --> กุลฑีรา จันทร์เกษม 
+
+UPDATE tb_report SET first_name ='กุลฑีรา',last_name = 'จันร์เกษม' WHERE tb_report.report_id = 27470;
+# 27 Report ID : 27470 | Score:89  ผิด --> นส.กุลฑีรา จันทร์เกษม|  ถูก --> กุลฑีรา จันร์เกษม 
+
+UPDATE tb_report SET first_name ='กุลฑิรา',last_name = 'จันทร์เกษม' WHERE tb_report.report_id = 27470;
+# 28 Report ID : 27470 | Score:87  ผิด --> นส.กุลฑีรา จันทร์เกษม|  ถูก --> กุลฑิรา จันทร์เกษม 
+
+UPDATE tb_report SET first_name ='ประจญ',last_name = 'ศรีสะอาด' WHERE tb_report.report_id = 27476;
+# 29 Report ID : 27476 | Score:93  ผิด --> ประจญ ครีสะอาด|  ถูก --> ประจญ ศรีสะอาด 
+
+UPDATE tb_report SET first_name ='พรรณรส',last_name = 'อัศวคารนนท์' WHERE tb_report.report_id = 27481;
+# 30 Report ID : 27481 | Score:97  ผิด --> พรรณรส อัศวคารานนท์|  ถูก --> พรรณรส อัศวคารนนท์ 
+
+UPDATE tb_report SET first_name ='ศศิญา',last_name = 'เจริญวัง' WHERE tb_report.report_id = 27518;
+# 31 Report ID : 27518 | Score:93  ผิด --> ศศิมา เจริญวัง|  ถูก --> ศศิญา เจริญวัง 
+
+UPDATE tb_report SET first_name ='นภัสวรรณ',last_name = 'ทองประเสริฐ' WHERE tb_report.report_id = 27529;
+# 32 Report ID : 27529 | Score:92  ผิด --> นภัสวรณ ทองประเสริท|  ถูก --> นภัสวรรณ ทองประเสริฐ 
+
+UPDATE tb_report SET first_name ='แสงดาวพรรณ',last_name = 'วงค์สุวรรณ์' WHERE tb_report.report_id = 27574;
+# 33 Report ID : 27574 | Score:98  ผิด --> แสงดาวพรรณ วงค์สุวรรณ|  ถูก --> แสงดาวพรรณ วงค์สุวรรณ์ 
+
+UPDATE tb_report SET first_name ='เรืองศักดิ์',last_name = 'เศรษฐา' WHERE tb_report.report_id = 27584;
+# 34 Report ID : 27584 | Score:97  ผิด --> เรืองศักดิ เศรษฐา|  ถูก --> เรืองศักดิ์ เศรษฐา 
+
+UPDATE tb_report SET first_name ='สุรศักดิ์',last_name = 'เหล่าบัณฑิตเจริญ' WHERE tb_report.report_id = 27594;
+# 35 Report ID : 27594 | Score:96  ผิด --> สุรศักดิ์ เหล่าบันฑิตเจริญ|  ถูก --> สุรศักดิ์ เหล่าบัณฑิตเจริญ 
+
+UPDATE tb_report SET first_name ='ประจญ',last_name = 'ศรีสะอาด' WHERE tb_report.report_id = 27616;
+# 36 Report ID : 27616 | Score:93  ผิด --> ประจบ ศรีสะอาด|  ถูก --> ประจญ ศรีสะอาด 
+
+UPDATE tb_report SET first_name ='นิวัฒน์',last_name = 'จำเนียรทรัพย์' WHERE tb_report.report_id = 27664;
+# 37 Report ID : 27664 | Score:98  ผิด --> นิวัฒน์ จำเนียทรัพย์|  ถูก --> นิวัฒน์ จำเนียรทรัพย์ 
+
+UPDATE tb_report SET first_name ='ธันยมนย์',last_name = 'เกิดสมนึก' WHERE tb_report.report_id = 27696;
+# 38 Report ID : 27696 | Score:94  ผิด --> ธันยมนต์ เกิดสมนึก|  ถูก --> ธันยมนย์ เกิดสมนึก 
+
+UPDATE tb_report SET first_name ='ปณิตา',last_name = 'ชุมรัมย์' WHERE tb_report.report_id = 27709;
+# 39 Report ID : 27709 | Score:93  ผิด --> ปณิตา ชุมรัมณ์|  ถูก --> ปณิตา ชุมรัมย์ 
+
+UPDATE tb_report SET first_name ='ประจญ',last_name = 'ศรีสะอาด' WHERE tb_report.report_id = 27723;
+# 40 Report ID : 27723 | Score:96  ผิด --> ประจญ ศรสะอาด|  ถูก --> ประจญ ศรีสะอาด 
+
+UPDATE tb_report SET first_name ='ชัชวินทร์',last_name = 'ศิริพานิชย์' WHERE tb_report.report_id = 27770;
+# 41 Report ID : 27770 | Score:95  ผิด --> ชัชวินทร์ สิริพานิชย์|  ถูก --> ชัชวินทร์ ศิริพานิชย์ 
+
+UPDATE tb_report SET first_name ='วรรณิภา',last_name = 'ทองสุข' WHERE tb_report.report_id = 27970;
+# 42 Report ID : 27970 | Score:93  ผิด --> วรรณิสา ทองสุข|  ถูก --> วรรณิภา ทองสุข 
+
+UPDATE tb_report SET first_name ='สมบัติ',last_name = 'จินตรักษ์' WHERE tb_report.report_id = 27972;
+# 43 Report ID : 27972 | Score:90  ผิด --> สมบัติ จินตารัก|  ถูก --> สมบัติ จินตรักษ์ 
+
+UPDATE tb_report SET first_name ='อธิวัฒน์',last_name = 'บางตุ้ม' WHERE tb_report.report_id = 27992;
+# 44 Report ID : 27992 | Score:94  ผิด --> อภิวัฒน์ บางตุ้ม|  ถูก --> อธิวัฒน์ บางตุ้ม 
+
+UPDATE tb_report SET first_name ='วันเฉลิม',last_name = 'ทองมูลชัย' WHERE tb_report.report_id = 28107;
+# 45 Report ID : 28107 | Score:94  ผิด --> วัลเฉลิม ทองมูลชัย|  ถูก --> วันเฉลิม ทองมูลชัย 
+
+UPDATE tb_report SET first_name ='อมรพรรณ',last_name = 'นิลเพ็ชร์' WHERE tb_report.report_id = 28119;
+# 46 Report ID : 28119 | Score:97  ผิด --> อมรพรรณ นิลเพชร์|  ถูก --> อมรพรรณ นิลเพ็ชร์ 
+
+UPDATE tb_report SET first_name ='พุทธิมนต์',last_name = 'บุญณะแก้ว' WHERE tb_report.report_id = 28128;
+# 47 Report ID : 28128 | Score:92  ผิด --> พุทธิมนต์ บุญณะเเก้ว|  ถูก --> พุทธิมนต์ บุญณะแก้ว 
+
+UPDATE tb_report SET first_name ='ธวัชชัย',last_name = 'คำธงชัย' WHERE tb_report.report_id = 28136;
+# 48 Report ID : 28136 | Score:90  ผิด --> ธวัชชัย คําธงชัย|  ถูก --> ธวัชชัย คำธงชัย 
+
+UPDATE tb_report SET first_name ='ประจญ',last_name = 'ศรีสะอาด' WHERE tb_report.report_id = 28147;
+# 49 Report ID : 28147 | Score:97  ผิด --> ประจญ​ ศรีสะอาด|  ถูก --> ประจญ ศรีสะอาด 
+
+UPDATE tb_report SET first_name ='ณัฐฐาพร',last_name = 'มากผล' WHERE tb_report.report_id = 28152;
+# 50 Report ID : 28152 | Score:93  ผิด --> ณัฐ​ฐาพร​ มากผล|  ถูก --> ณัฐฐาพร มากผล 
+
+UPDATE tb_report SET first_name ='วรายุทธิ์',last_name = 'พรมสุข' WHERE tb_report.report_id = 28173;
+# 51 Report ID : 28173 | Score:93  ผิด --> วรายุทธ พรมสุข|  ถูก --> วรายุทธิ์ พรมสุข 
+
+UPDATE tb_report SET first_name ='จินดารัตน์',last_name = 'แสงดาว' WHERE tb_report.report_id = 28189;
+# 52 Report ID : 28189 | Score:92  ผิด --> นส จินดารัตน์ แสงดาว|  ถูก --> จินดารัตน์ แสงดาว 
+
+UPDATE tb_report SET first_name ='อุดมลักษณ์',last_name = 'คินธร' WHERE tb_report.report_id = 28233;
+# 53 Report ID : 28233 | Score:97  ผิด --> อุดมลักษณ์ คนธร|  ถูก --> อุดมลักษณ์ คินธร 
+
+UPDATE tb_report SET first_name ='สถาพร',last_name = 'เจริญศักดิ์' WHERE tb_report.report_id = 28249;
+# 54 Report ID : 28249 | Score:94  ผิด --> สภาพร เจริญศักดิ์|  ถูก --> สถาพร เจริญศักดิ์ 
+
+UPDATE tb_report SET first_name ='ธีระยุทธ',last_name = 'จีนโทร' WHERE tb_report.report_id = 28258;
+# 55 Report ID : 28258 | Score:93  ผิด --> พีระยุทธ จีนโทร|  ถูก --> ธีระยุทธ จีนโทร 
+
+
